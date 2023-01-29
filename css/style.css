@@ -1,9 +1,12 @@
 body {
-  background-color: #ffd384;
   font-family: lato;
+  background-image: url("https://www.pngkey.com/png/detail/39-392440_3d-world-map-png-transparent-background-download-barclays.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: 20px 100px;
+  background-color: rgb(246, 246, 246);
 }
 h1 {
-  color: #6e2142;
   text-align: center;
   font-size: 40px;
 }
@@ -31,7 +34,7 @@ select {
   margin-top: 50px;
   box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.3);
   border-radius: 20px;
-  background-color: #feffde;
+  background-color: rgb(176, 224, 230, 0.3);
 }
 
 .city {
